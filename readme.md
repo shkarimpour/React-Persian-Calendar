@@ -10,13 +10,14 @@ this component is dependant on ["moment-jalaali"](https://github.com/jalaali/mom
 `npm install --save react-persian-calender`
 
 ## Use
-`import Calender from 'react-persian-calender'`
-`
- \n
+```import Calender from 'react-persian-calender'`
+
+...
+
 render() {
   <Calender onChange={handeler}>
 }
-`
+```
 
 ## Props
 the only prop right now is `onChange` which accepts a function.
