@@ -1,5 +1,5 @@
-# React Persian Calender
-this is a simple yet practical persian calender for react.
+# React Persian Calendar
+this is a simple yet practical persian calendar for react.
 
 ![screenshot-2017-10-2 react app](https://user-images.githubusercontent.com/15430048/31093607-1d4f02be-a7bf-11e7-85a0-47ea71374940.png)
 
@@ -7,16 +7,16 @@ this is a simple yet practical persian calender for react.
 this component is dependant on ["moment-jalaali"](https://github.com/jalaali/moment-jalaali) package so make sure you install that first.
 
 ## Install 
-`npm install --save react-persian-calender`
+`npm install --save react-persian-calendar`
 
 ## Use
 ```javascript
-import Calender from 'react-persian-calender'
+import Calendar from 'react-persian-calendar'
 
 // your component details ...
 
 render() {
-  <Calender onChange={handler}>
+  <Calendar onChange={handler}>
 }
 ```
 
