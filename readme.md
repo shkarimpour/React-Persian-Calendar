@@ -2,7 +2,7 @@
 this is a simple yet practical persian calender for react.
 
 ## Important note
-this component is dependant on ["moment-jalaali"](https://github.com/jalaali/moment-jalaali) package so make sure you install momentJs first
+this component is dependant on ["moment-jalaali"](https://github.com/jalaali/moment-jalaali) package so make sure you install that first.
 
 ## Install 
 `npm install --save react-persian-calender`
