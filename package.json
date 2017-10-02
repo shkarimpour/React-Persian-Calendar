@@ -1,0 +1,24 @@
+{
+  "name": "react-persian-calender",
+  "version": "1.0.0",
+  "description": "A persian calender in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htondkar/React-Persian-Calender.git"
+  },
+  "keywords": [
+    "react",
+    "persian",
+    "calender"
+  ],
+  "author": "Hamid Tondaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htondkar/React-Persian-Calender/issues"
+  },
+  "homepage": "https://github.com/htondkar/React-Persian-Calender#readme"
+}
