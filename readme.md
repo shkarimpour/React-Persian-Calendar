@@ -11,7 +11,7 @@ this component is dependant on ["moment-jalaali"](https://github.com/jalaali/mom
 
 ## Use
 ```javascript
-import Calender from 'react-persian-calender'`
+import Calender from 'react-persian-calender'
 
 // your component details ...
 
